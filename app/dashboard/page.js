@@ -454,7 +454,7 @@ export default function Dashboard() {
               <div className="w-9 h-9 rounded-full bg-black flex items-center justify-center">
                 <div className="w-4 h-4 rounded-full border-2 border-white" />
               </div>
-              <span className="text-xl font-normal text-gray-900"></span>
+              <span className="text-xl font-normal text-gray-900">my mind</span>
             </div>
 
             {/* Search and Add - Only show when scrolled */}
@@ -614,9 +614,9 @@ export default function Dashboard() {
               <br />
               <span className="text-gray-500">Save them. Organize them. Make something beautiful.</span>
             </p>
-            {/* <p className="text-sm text-gray-400 mt-6 uppercase tracking-wider">
+            <p className="text-sm text-gray-400 mt-6 uppercase tracking-wider">
               Presented by <span className="font-medium text-gray-600">my mind</span>
-            </p> */}
+            </p>
           </motion.div>
 
           {/* Add Bookmark Form */}
