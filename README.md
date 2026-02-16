@@ -1,8 +1,7 @@
 🧠 MyMind
 Save everything. Organize nothing. A beautiful, real-time bookmark manager that actually understands how your brain works.
 
-Live Demo · Chrome Extension
-
+<div align="center"> <a href="https://smartbookmarkweb-xi.vercel.app/"><strong>🚀 Live Demo</strong></a> · <a href="https://github.com/Mridulklra/Smartly"><strong>📦 GitHub Repo</strong></a> · <a href="https://www.loom.com/share/cf3c45069b284a379eca7895ba984f1d"><strong>🎥 Watch Video Demo</strong></a> </div>
 ✨ The Problem
 Browser bookmarks are a mess. Folders don't work. You save links and never find them again.
 
@@ -43,8 +42,8 @@ Supabase account (free tier)
 Installation
 bash
 # Clone & install
-git clone https://github.com/yourusername/mymind.git
-cd mymind
+git clone https://github.com/Mridulklra/Smartly.git
+cd Smartly
 npm install
 
 # Set up environment variables
@@ -93,6 +92,3 @@ Import to Vercel
 Add environment variables
 
 Update Supabase redirect URL to https://yourdomain.com/auth/callback
-
-🤝 Contributing
-PRs welcome! Open an issue first for major changes.
