@@ -116,9 +116,7 @@ export default function Home() {
           
           <div className="mt-12 mb-8 flex flex-wrap items-center justify-center gap-3 text-lg md:text-xl text-gray-700">
             <span>All your</span>
-            <span className="px-4 py-2 bg-white/70 backdrop-blur-sm rounded-full text-orange-600 border border-orange-200 shadow-sm">
-              
-            </span>
+          
             <span className="px-4 py-2 bg-white/70 backdrop-blur-sm rounded-full text-pink-600 border border-pink-200 shadow-sm">
               bookmarks
             </span>
@@ -128,7 +126,7 @@ export default function Home() {
           </div>
           
           <div className="flex flex-wrap items-center justify-center gap-3 text-lg md:text-xl text-gray-700 mb-12">
-            <span>All your bookmarks, inspiration in one single, private place.</span>
+            <span>in one single, private place.</span>
           </div>
 
           {/* CTA Button */}
