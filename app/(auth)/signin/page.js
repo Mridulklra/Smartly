@@ -43,7 +43,7 @@ export default function SignIn() {
       setAuthLoading(false);
     }
   };
-
+  
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{ background: 'linear-gradient(135deg, #e0e7ff 0%, #fef3c7 25%, #fce7f3 50%, #ddd6fe 100%)' }}>
