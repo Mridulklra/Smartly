@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Smart Bookmark App",
+  title: "Smart Bookmark Web App",
   description: "A fast, secure bookmark manager with live sync.",
 };
 
