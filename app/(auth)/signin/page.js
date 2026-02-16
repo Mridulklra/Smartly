@@ -23,7 +23,6 @@ export default function SignIn() {
     setAuthLoading(true);
     try {
       const baseUrl =
-        process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
         window.location.origin;
       const redirectTo = new URL("/auth/callback", baseUrl).toString();
 
