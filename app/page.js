@@ -142,7 +142,7 @@ export default function Home() {
           </motion.button>
         </motion.div>
 
-        {/* Orange Hero Section - Matching Screenshot */}
+        
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
